@@ -12,4 +12,4 @@ public class HelloJava {
         result = myColor.getColor();
         System.out.printf("Next color is %s\n", result);
     }
-}
+}   
